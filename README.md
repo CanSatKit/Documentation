@@ -1,8 +1,3 @@
 # Documentation
-Documentation, manuals and help for CanSat Kit
+Documentation, manuals and help for CanSat Kit v2
 
-# Schematics and Board design files
-
-Available from CircuitMaker:
- - Kit: https://circuitmaker.com/Projects/Details/Michal-Gumiela/CansatKit-ATSAM
- - Protoboard: https://circuitmaker.com/Projects/Details/Michal-Gumiela/CansatKit-Protoboard
